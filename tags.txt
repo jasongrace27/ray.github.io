@@ -1,0 +1,25 @@
+html 
+
+head
+b
+i
+u
+s
+body; text bgcolor
+br
+pre
+marquee; height width direction scrollamount behaviour
+img ;src alt height width
+center
+super
+a ;href
+ul type;square circle
+ol type;i I 1 a A
+li
+tr
+td colsspan rowspan
+th colsspan rowspan
+label form option
+select option
+input
+
